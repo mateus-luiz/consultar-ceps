@@ -1,4 +1,4 @@
 
-Consular CEP
+#Search ZIP Code
 
-Programa desktop windows form c# que utiliza WEBSERVICE do correio para consultar CEPs
+Desktop application, developed using C# and WinForms, uses the Correios API to check the zip code entered and get the address, city and state.
